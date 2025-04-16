@@ -65,6 +65,9 @@ This project is a dynamic **Power BI dashboard** that provides an in-depth analy
 
 ## 📷 Dashboard Preview
 
+![Screenshot 2025-04-16 093508](https://github.com/user-attachments/assets/5f51665b-6a8e-44c7-ad2b-e60bfe3cdcd0)
+
+
 ![Screenshot 2025-04-16 093525](https://github.com/user-attachments/assets/a5900c45-1139-46ad-8613-2fe1b5840161)
 
 
