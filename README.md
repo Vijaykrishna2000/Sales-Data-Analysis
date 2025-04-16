@@ -65,8 +65,8 @@ This project is a dynamic **Power BI dashboard** that provides an in-depth analy
 
 ## 📷 Dashboard Preview
 
-![Dashboard Overview](Screenshots/Screenshot_1.png)
-![Category Analysis](Screenshots/Screenshot_2.png)
+![Screenshot 2025-04-16 093525](https://github.com/user-attachments/assets/a5900c45-1139-46ad-8613-2fe1b5840161)
+
 
 > Replace screenshot paths with actual image filenames once added to the repo.
 
